@@ -1,0 +1,25 @@
+---
+title: "[PROJECT TITLE THREE]"
+date: 2025-12-10
+author: "Your Name"
+categories: [visualization, Quarto]
+description: "A third project stub. This can be a dashboard, a reproducibility write-up, or a consulting-style memo."
+image: ../../assets/project-placeholder.png
+---
+
+<span class="section-kicker">Overview</span>
+
+[PROJECT TITLE THREE]{.stub} is a place to show a public-facing piece of work, even if it started as a class assignment.
+
+## What I did
+
+- [Audience and purpose.]{.stub}
+- [What someone can do with the result.]{.stub}
+
+## Tools
+
+[Quarto]{.stub}, [Observable or ggplot2 or Tableau]{.stub}
+
+## Links
+
+- [Live demo or report](#)

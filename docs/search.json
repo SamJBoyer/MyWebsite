@@ -1,0 +1,156 @@
+[
+  {
+    "objectID": "projects/items/project-two.html",
+    "href": "projects/items/project-two.html",
+    "title": "[PROJECT TITLE TWO]",
+    "section": "",
+    "text": "Overview\nDescribe PROJECT TITLE TWO in plain language. A visitor should understand the problem without reading a paper."
+  },
+  {
+    "objectID": "projects/items/project-two.html#what-i-did",
+    "href": "projects/items/project-two.html#what-i-did",
+    "title": "[PROJECT TITLE TWO]",
+    "section": "What I did",
+    "text": "What I did\n\nMethod or experiment.\nFinding or deliverable."
+  },
+  {
+    "objectID": "projects/items/project-two.html#tools",
+    "href": "projects/items/project-two.html#tools",
+    "title": "[PROJECT TITLE TWO]",
+    "section": "Tools",
+    "text": "Tools\nPython, PACKAGE"
+  },
+  {
+    "objectID": "projects/items/project-two.html#links",
+    "href": "projects/items/project-two.html#links",
+    "title": "[PROJECT TITLE TWO]",
+    "section": "Links",
+    "text": "Links\n\nCode repository"
+  },
+  {
+    "objectID": "projects/items/project-one.html",
+    "href": "projects/items/project-one.html",
+    "title": "[PROJECT TITLE ONE]",
+    "section": "",
+    "text": "Overview\nA short write-up of PROJECT TITLE ONE. State the question, the data source, and the main result."
+  },
+  {
+    "objectID": "projects/items/project-one.html#what-i-did",
+    "href": "projects/items/project-one.html#what-i-did",
+    "title": "[PROJECT TITLE ONE]",
+    "section": "What I did",
+    "text": "What I did\n\nCleaning, modeling, or visualization step.\nA second concrete step."
+  },
+  {
+    "objectID": "projects/items/project-one.html#tools",
+    "href": "projects/items/project-one.html#tools",
+    "title": "[PROJECT TITLE ONE]",
+    "section": "Tools",
+    "text": "Tools\nR, Quarto, PACKAGE"
+  },
+  {
+    "objectID": "projects/items/project-one.html#links",
+    "href": "projects/items/project-one.html#links",
+    "title": "[PROJECT TITLE ONE]",
+    "section": "Links",
+    "text": "Links\n\nCode repository\nPaper, poster, or demo if you have one"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Your Name",
+    "section": "",
+    "text": "About me\nWelcome. I am a student at Case Western Reserve University. This site is my professional home for selected work, a short record of where I have been, and a way to get in touch.\nI am currently focused on YOUR FIELD. In addition to coursework, I am WHAT YOU ARE DOING NOW — for example, research, an internship, a job, or a specific methods interest.\nIf you would like to reach me, write to YOUR.EMAIL@case.edu or use the LinkedIn and GitHub links above.\n\nSelected highlights\n\n\nEducation\n\nCurrent program\n\nDEGREE, DEPARTMENTCase Western Reserve UniversitySTART YEAR – END YEAR or Present\nMore education →\n\n\nExperience\n\nMost recent role\n\nROLEORGANIZATIONDATES\nMore experience →\n\n\nProjects\n\nFeatured work\n\nPROJECT TITLEA short description of a paper, analysis, app, or class project.\nAll projects →\n\n\nDownload my CV"
+  },
+  {
+    "objectID": "education.html",
+    "href": "education.html",
+    "title": "Education",
+    "section": "",
+    "text": "Academic background\nA concise record of degrees and training. Replace each highlighted stub before you share the site.\n\n\nDEGREE, e.g. M.S. in Biostatistics\n\nCase Western Reserve University · Cleveland, OH · START – END or Present\n\n\nConcentration or advisor: YOUR CONCENTRATION OR ADVISOR\nSelected coursework: COURSE 1, COURSE 2, COURSE 3\nNote anything distinctive: thesis topic, honors, or a methods interest.\n\n\n\nPREVIOUS DEGREE, e.g. B.S. in Statistics\n\nUNIVERSITY · CITY, STATE · START – END\n\n\nMajor / minor: MAJOR, MINOR IF ANY\nHonors or distinction: HONORS\nSenior thesis or capstone: TITLE OR omit this line\n\n\n\nIf you completed certificates, bootcamps, or a study-abroad term, add another card in this same list."
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Download\nA one-page CV is available as a PDF. Replace assets/YourName_CV.pdf with your own file and keep this button. People who want the long version can still skim the highlights below.\n\nDownload CV (PDF)"
+  },
+  {
+    "objectID": "cv.html#contact",
+    "href": "cv.html#contact",
+    "title": "Curriculum Vitae",
+    "section": "Contact",
+    "text": "Contact\n\nName: Your Name\nEmail: YOUR.EMAIL@case.edu\nLocation: Cleveland, OH\nLinkedIn: linkedin.com/in/YOUR-LINKEDIN\nGitHub: github.com/YOUR-GITHUB"
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "Curriculum Vitae",
+    "section": "Education",
+    "text": "Education\n\nDEGREE, DEPARTMENT, Case Western Reserve University, YEARS\nPREVIOUS DEGREE, UNIVERSITY, YEARS"
+  },
+  {
+    "objectID": "cv.html#experience",
+    "href": "cv.html#experience",
+    "title": "Curriculum Vitae",
+    "section": "Experience",
+    "text": "Experience\n\nROLE, ORGANIZATION, DATES\nROLE, ORGANIZATION, DATES"
+  },
+  {
+    "objectID": "cv.html#projects",
+    "href": "cv.html#projects",
+    "title": "Curriculum Vitae",
+    "section": "Projects",
+    "text": "Projects\n\nPROJECT TITLE — one-line result\nPROJECT TITLE — one-line result"
+  },
+  {
+    "objectID": "cv.html#skills",
+    "href": "cv.html#skills",
+    "title": "Curriculum Vitae",
+    "section": "Skills",
+    "text": "Skills\n\nMethods: regression, causal inference, ML, survey methods, …\nComputing: R, Python, SQL, Git, Quarto, …\nLanguages: English, …"
+  },
+  {
+    "objectID": "experience.html",
+    "href": "experience.html",
+    "title": "Experience",
+    "section": "",
+    "text": "Work and research\nRoles, research assistantships, internships, and other work that a visitor should see. Keep each entry to a title, place, dates, and two or three concrete bullets.\n\n\nROLE\n\nORGANIZATION · CITY or Remote · START – END or Present\n\n\nWhat you owned or built, with a result if you have one.\nMethods, tools, or data you used.\nCollaboration, communication, or impact outside your immediate team.\n\n\n\nROLE\n\nORGANIZATION · CITY or Remote · START – END\n\n\nFirst contribution.\nSecond contribution.\n\n\n\nROLE, e.g. Research Assistant\n\nLAB OR PI · Case Western Reserve University · DATES\n\n\nStudy, dataset, or analysis you supported.\nSoftware or languages: R, Python, SQL, Quarto, etc."
+  },
+  {
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Selected work\nCourse projects, analyses, and other work I want people to be able to find. Each card below is a stub; swap in a real title, date, short description, and optional image.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n[PROJECT TITLE ONE]\n\n1 min\n\nReplace this with one or two sentences on the question, the data, and what you found.\n\n\n\nYour Name\n\n\nSep 1, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\n[PROJECT TITLE TWO]\n\n1 min\n\nA second project stub. Use this for research, an internship deliverable, or an independent analysis.\n\n\n\nYour Name\n\n\nJun 15, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\n[PROJECT TITLE THREE]\n\n1 min\n\nA third project stub. This can be a dashboard, a reproducibility write-up, or a consulting-style memo.\n\n\n\nYour Name\n\n\nDec 10, 2025\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "projects/items/project-three.html",
+    "href": "projects/items/project-three.html",
+    "title": "[PROJECT TITLE THREE]",
+    "section": "",
+    "text": "Overview\nPROJECT TITLE THREE is a place to show a public-facing piece of work, even if it started as a class assignment."
+  },
+  {
+    "objectID": "projects/items/project-three.html#what-i-did",
+    "href": "projects/items/project-three.html#what-i-did",
+    "title": "[PROJECT TITLE THREE]",
+    "section": "What I did",
+    "text": "What I did\n\nAudience and purpose.\nWhat someone can do with the result."
+  },
+  {
+    "objectID": "projects/items/project-three.html#tools",
+    "href": "projects/items/project-three.html#tools",
+    "title": "[PROJECT TITLE THREE]",
+    "section": "Tools",
+    "text": "Tools\nQuarto, Observable or ggplot2 or Tableau"
+  },
+  {
+    "objectID": "projects/items/project-three.html#links",
+    "href": "projects/items/project-three.html#links",
+    "title": "[PROJECT TITLE THREE]",
+    "section": "Links",
+    "text": "Links\n\nLive demo or report"
+  }
+]

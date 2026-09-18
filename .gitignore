@@ -1,0 +1,8 @@
+/.quarto/
+/.Rproj.user/
+.Rhistory
+.RData
+*_cache/
+/.luarc.json
+
+**/*.quarto_ipynb

@@ -1,0 +1,26 @@
+---
+title: "[PROJECT TITLE ONE]"
+date: 2026-09-01
+author: "Your Name"
+categories: [coursework, R]
+description: "Replace this with one or two sentences on the question, the data, and what you found."
+image: ../../assets/project-placeholder.png
+---
+
+<span class="section-kicker">Overview</span>
+
+A short write-up of [PROJECT TITLE ONE]{.stub}. State the question, the data source, and the main result.
+
+## What I did
+
+- [Cleaning, modeling, or visualization step.]{.stub}
+- [A second concrete step.]{.stub}
+
+## Tools
+
+[R]{.stub}, [Quarto]{.stub}, [PACKAGE]{.stub}
+
+## Links
+
+- [Code repository](https://github.com/YOUR-GITHUB)
+- [Paper, poster, or demo if you have one](#)

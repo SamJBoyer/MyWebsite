@@ -1,0 +1,62 @@
+---
+title: "Your Name"
+image: assets/profile.png
+about:
+  template: jolla
+  image-width: 15em
+  image-shape: round
+  image-alt: "Placeholder portrait. Replace assets/profile.png with your photo."
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/YOUR-LINKEDIN
+    - icon: github
+      text: GitHub
+      href: https://github.com/YOUR-GITHUB
+    - icon: envelope
+      text: Email
+      href: mailto:YOUR.EMAIL@case.edu
+---
+
+::: {.welcome-lead}
+<span class="section-kicker">About me</span>
+
+Welcome. I am a student at Case Western Reserve University. This site is my professional home for selected work, a short record of where I have been, and a way to get in touch.
+
+I am currently focused on [YOUR FIELD]{.stub}. In addition to coursework, I am [WHAT YOU ARE DOING NOW]{.stub} — for example, research, an internship, a job, or a specific methods interest.
+
+If you would like to reach me, write to [YOUR.EMAIL@case.edu](mailto:YOUR.EMAIL@case.edu) or use the LinkedIn and GitHub links above.
+:::
+
+<span class="section-kicker">Selected highlights</span>
+
+::: {.home-grid}
+::: {.info-card}
+### Education
+<div class="meta">Current program</div>
+
+**[DEGREE]{.stub}**, [DEPARTMENT]{.stub}<br>Case Western Reserve University<br>[START YEAR]{.stub} – [END YEAR or Present]{.stub}
+
+[More education →](education.qmd)
+:::
+
+::: {.info-card}
+### Experience
+<div class="meta">Most recent role</div>
+
+**[ROLE]{.stub}**<br>[ORGANIZATION]{.stub}<br>[DATES]{.stub}
+
+[More experience →](experience.qmd)
+:::
+
+::: {.info-card}
+### Projects
+<div class="meta">Featured work</div>
+
+**[PROJECT TITLE]{.stub}**<br>A short description of a paper, analysis, app, or class project.
+
+[All projects →](projects/index.qmd)
+:::
+:::
+
+[Download my CV](assets/YourName_CV.pdf){.btn .btn-cv}

@@ -1,0 +1,34 @@
+---
+title: "Experience"
+---
+
+<span class="section-kicker">Work and research</span>
+
+Roles, research assistantships, internships, and other work that a visitor should see. Keep each entry to a title, place, dates, and two or three concrete bullets.
+
+::: {.timeline}
+::: {.role-card}
+### [ROLE]{.stub}
+<div class="meta">[ORGANIZATION]{.stub} · [CITY or Remote]{.stub} · [START]{.stub} – [END or Present]{.stub}</div>
+
+- [What you owned or built, with a result if you have one.]{.stub}
+- [Methods, tools, or data you used.]{.stub}
+- [Collaboration, communication, or impact outside your immediate team.]{.stub}
+:::
+
+::: {.role-card}
+### [ROLE]{.stub}
+<div class="meta">[ORGANIZATION]{.stub} · [CITY or Remote]{.stub} · [START]{.stub} – [END]{.stub}</div>
+
+- [First contribution.]{.stub}
+- [Second contribution.]{.stub}
+:::
+
+::: {.role-card}
+### [ROLE, e.g. Research Assistant]{.stub}
+<div class="meta">[LAB OR PI]{.stub} · Case Western Reserve University · [DATES]{.stub}</div>
+
+- [Study, dataset, or analysis you supported.]{.stub}
+- [Software or languages: R, Python, SQL, Quarto, etc.]{.stub}
+:::
+:::

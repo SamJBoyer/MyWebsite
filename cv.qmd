@@ -1,0 +1,42 @@
+---
+title: "Curriculum Vitae"
+---
+
+::: {.cv-panel}
+<div>
+<span class="section-kicker">Download</span>
+
+**A one-page CV is available as a PDF.** Replace `assets/YourName_CV.pdf` with your own file and keep this button. People who want the long version can still skim the highlights below.
+</div>
+
+[Download CV (PDF)](assets/YourName_CV.pdf){.btn .btn-cv}
+:::
+
+## Contact
+
+- **Name:** [Your Name]{.stub}
+- **Email:** [YOUR.EMAIL@case.edu](mailto:YOUR.EMAIL@case.edu)
+- **Location:** Cleveland, OH
+- **LinkedIn:** [linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/YOUR-LINKEDIN)
+- **GitHub:** [github.com/YOUR-GITHUB](https://github.com/YOUR-GITHUB)
+
+## Education
+
+- **[DEGREE]{.stub}**, [DEPARTMENT]{.stub}, Case Western Reserve University, [YEARS]{.stub}
+- **[PREVIOUS DEGREE]{.stub}**, [UNIVERSITY]{.stub}, [YEARS]{.stub}
+
+## Experience
+
+- **[ROLE]{.stub}**, [ORGANIZATION]{.stub}, [DATES]{.stub}
+- **[ROLE]{.stub}**, [ORGANIZATION]{.stub}, [DATES]{.stub}
+
+## Projects
+
+- **[PROJECT TITLE]{.stub}** — [one-line result]{.stub}
+- **[PROJECT TITLE]{.stub}** — [one-line result]{.stub}
+
+## Skills
+
+- **Methods:** [regression, causal inference, ML, survey methods, …]{.stub}
+- **Computing:** [R, Python, SQL, Git, Quarto, …]{.stub}
+- **Languages:** [English, …]{.stub}

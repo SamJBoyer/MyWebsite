@@ -1,0 +1,29 @@
+---
+title: "Education"
+---
+
+<span class="section-kicker">Academic background</span>
+
+A concise record of degrees and training. Replace each highlighted stub before you share the site.
+
+::: {.timeline}
+::: {.role-card}
+### [DEGREE, e.g. M.S. in Biostatistics]{.stub}
+<div class="meta">Case Western Reserve University · Cleveland, OH · [START]{.stub} – [END or Present]{.stub}</div>
+
+- Concentration or advisor: [YOUR CONCENTRATION OR ADVISOR]{.stub}
+- Selected coursework: [COURSE 1]{.stub}, [COURSE 2]{.stub}, [COURSE 3]{.stub}
+- Note anything distinctive: thesis topic, honors, or a methods interest.
+:::
+
+::: {.role-card}
+### [PREVIOUS DEGREE, e.g. B.S. in Statistics]{.stub}
+<div class="meta">[UNIVERSITY]{.stub} · [CITY, STATE]{.stub} · [START]{.stub} – [END]{.stub}</div>
+
+- Major / minor: [MAJOR]{.stub}, [MINOR IF ANY]{.stub}
+- Honors or distinction: [HONORS]{.stub}
+- Senior thesis or capstone: [TITLE OR omit this line]{.stub}
+:::
+:::
+
+If you completed certificates, bootcamps, or a study-abroad term, add another card in this same list.

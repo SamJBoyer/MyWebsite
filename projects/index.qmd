@@ -1,0 +1,14 @@
+---
+title: "Projects"
+listing:
+  contents: items
+  type: grid
+  sort: "date desc"
+  categories: true
+  fields: [image, date, title, author, reading-time, description]
+  image-height: 180px
+---
+
+<span class="section-kicker">Selected work</span>
+
+Course projects, analyses, and other work I want people to be able to find. Each card below is a stub; swap in a real title, date, short description, and optional image.

@@ -1,0 +1,25 @@
+---
+title: "[PROJECT TITLE TWO]"
+date: 2026-06-15
+author: "Your Name"
+categories: [research, Python]
+description: "A second project stub. Use this for research, an internship deliverable, or an independent analysis."
+image: ../../assets/project-placeholder.png
+---
+
+<span class="section-kicker">Overview</span>
+
+Describe [PROJECT TITLE TWO]{.stub} in plain language. A visitor should understand the problem without reading a paper.
+
+## What I did
+
+- [Method or experiment.]{.stub}
+- [Finding or deliverable.]{.stub}
+
+## Tools
+
+[Python]{.stub}, [PACKAGE]{.stub}
+
+## Links
+
+- [Code repository](https://github.com/YOUR-GITHUB)
