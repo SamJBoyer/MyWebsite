@@ -56,4 +56,4 @@ If you would like to reach me, write to [sam.james.boyer@gmail.com](mailto:sam.j
 :::
 :::
 
-[Download my CV](assets/SJB_CV_AI.pdf){.btn .btn-cv}
+[Download my CV](assets/SJB_CV_AI-SAFE.pdf){.btn .btn-cv}

@@ -9,14 +9,13 @@ title: "Curriculum Vitae"
 **A two-page CV is available as a PDF.** The file is the same résumé used to fill this site. Highlights are summarized below.
 </div>
 
-[Download CV (PDF)](assets/SJB_CV_AI.pdf){.btn .btn-cv}
+[Download CV (PDF)](assets/SJB_CV_AI-SAFE.pdf){.btn .btn-cv}
 :::
 
 ## Contact
 
 - **Name:** Samuel James Boyer
 - **Email:** [sam.james.boyer@gmail.com](mailto:sam.james.boyer@gmail.com)
-
 - **Location:** Beachwood, OH
 - **GitHub:** [github.com/SamJBoyer](https://github.com/SamJBoyer)
 
