@@ -5,7 +5,7 @@ about:
   template: jolla
   image-width: 15em
   image-shape: round
-  image-alt: "Portrait of Samuel Boyer"
+  image-alt: "Colorful tropical fish"
   links:
     - icon: github
       text: GitHub
