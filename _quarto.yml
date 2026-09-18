@@ -11,7 +11,7 @@ project:
 website:
   title: "Samuel Boyer"
   description: "Forward deployed engineer in neural engineering and BCI. M.S. student in Biomedical and Health Informatics at Case Western Reserve University."
-  image: assets/profile.png
+  image: assets/fish-profile.png
   favicon: assets/favicon.png
   site-url: https://samjboyer.github.io/MyWebsite
   navbar:

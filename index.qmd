@@ -1,6 +1,6 @@
 ---
 title: "Samuel Boyer"
-image: assets/profile.png
+image: assets/fish-profile.png
 about:
   template: jolla
   image-width: 15em
