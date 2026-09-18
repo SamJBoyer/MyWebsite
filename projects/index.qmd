@@ -11,4 +11,4 @@ listing:
 
 <span class="section-kicker">Selected work</span>
 
-Course projects, analyses, and other work I want people to be able to find. Each card below is a stub; swap in a real title, date, short description, and optional image.
+Selected systems and tools from the ReHAB clinical trial. Each page is a short write-up of work described in my CV.

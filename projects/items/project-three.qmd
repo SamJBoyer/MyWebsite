@@ -1,25 +1,26 @@
 ---
-title: "[PROJECT TITLE THREE]"
-date: 2025-12-10
-author: "Your Name"
-categories: [visualization, Quarto]
-description: "A third project stub. This can be a dashboard, a reproducibility write-up, or a consulting-style memo."
+title: "Clinical trial software and researcher UI"
+date: 2024-07-01
+author: "Samuel Boyer"
+categories: [clinical, Python, C#]
+description: "End-to-end experimental software for live human BCI trials, including a C#/Python control UI and lab-wide AI integration."
 image: ../../assets/project-placeholder.png
 ---
 
 <span class="section-kicker">Overview</span>
 
-[PROJECT TITLE THREE]{.stub} is a place to show a public-facing piece of work, even if it started as a class assignment.
+As Software Engineer I on the ReHAB trial, I own the software path from experiment setup through live execution. The work has to stay debuggable in the room while a study is running.
 
 ## What I did
 
-- [Audience and purpose.]{.stub}
-- [What someone can do with the result.]{.stub}
+- Built a researcher-facing control UI in C# and Python for experiment deployment and tuning.
+- Ran end-to-end experimental setup and real-time hardware/software debugging under clinical constraints.
+- Led the lab-wide AI integration strategy and co-authored two AI-focused grant proposals for neural decoding research.
 
 ## Tools
 
-[Quarto]{.stub}, [Observable or ggplot2 or Tableau]{.stub}
+C#, Python, Docker, GitHub
 
 ## Links
 
-- [Live demo or report](#)
+- [GitHub](https://github.com/SamJBoyer)

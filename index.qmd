@@ -1,31 +1,28 @@
 ---
-title: "Your Name"
+title: "Samuel Boyer"
 image: assets/profile.png
 about:
   template: jolla
   image-width: 15em
   image-shape: round
-  image-alt: "Placeholder portrait. Replace assets/profile.png with your photo."
+  image-alt: "Portrait of Samuel Boyer"
   links:
-    - icon: linkedin
-      text: LinkedIn
-      href: https://www.linkedin.com/in/YOUR-LINKEDIN
     - icon: github
       text: GitHub
-      href: https://github.com/YOUR-GITHUB
+      href: https://github.com/SamJBoyer
     - icon: envelope
       text: Email
-      href: mailto:YOUR.EMAIL@case.edu
+      href: mailto:sam.james.boyer@gmail.com
 ---
 
 ::: {.welcome-lead}
 <span class="section-kicker">About me</span>
 
-Welcome. I am a student at Case Western Reserve University. This site is my professional home for selected work, a short record of where I have been, and a way to get in touch.
+Welcome. I am a part-time graduate student at Case Western Reserve University and a software engineer on the ReHAB (Reconnecting Hand-Arm-Brain) clinical trial.
 
-I am currently focused on [YOUR FIELD]{.stub}. In addition to coursework, I am [WHAT YOU ARE DOING NOW]{.stub} — for example, research, an internship, a job, or a specific methods interest.
+I work as a forward deployed engineer in neural engineering and brain–computer interfaces, with a focus on real-time, low-latency bioelectric pipelines and field-deployed AI workflows. In addition to coursework, I lead development of the Closed-Loop Agentic Module (CLAM) used in live human studies.
 
-If you would like to reach me, write to [YOUR.EMAIL@case.edu](mailto:YOUR.EMAIL@case.edu) or use the LinkedIn and GitHub links above.
+If you would like to reach me, write to [sam.james.boyer@gmail.com](mailto:sam.james.boyer@gmail.com) or use the GitHub link above.
 :::
 
 <span class="section-kicker">Selected highlights</span>
@@ -35,7 +32,7 @@ If you would like to reach me, write to [YOUR.EMAIL@case.edu](mailto:YOUR.EMAIL@
 ### Education
 <div class="meta">Current program</div>
 
-**[DEGREE]{.stub}**, [DEPARTMENT]{.stub}<br>Case Western Reserve University<br>[START YEAR]{.stub} – [END YEAR or Present]{.stub}
+**M.S. in Biomedical and Health Informatics**<br>Case Western Reserve University<br>Expected May 2028
 
 [More education →](education.qmd)
 :::
@@ -44,7 +41,7 @@ If you would like to reach me, write to [YOUR.EMAIL@case.edu](mailto:YOUR.EMAIL@
 ### Experience
 <div class="meta">Most recent role</div>
 
-**[ROLE]{.stub}**<br>[ORGANIZATION]{.stub}<br>[DATES]{.stub}
+**Technical Lead, CLAM System**<br>ReHAB Clinical Trial<br>March 2025 – Present
 
 [More experience →](experience.qmd)
 :::
@@ -53,10 +50,10 @@ If you would like to reach me, write to [YOUR.EMAIL@case.edu](mailto:YOUR.EMAIL@
 ### Projects
 <div class="meta">Featured work</div>
 
-**[PROJECT TITLE]{.stub}**<br>A short description of a paper, analysis, app, or class project.
+**Closed-Loop Agentic Module (CLAM)**<br>An agentic, low-latency neural processing system for a clinical BCI trial.
 
 [All projects →](projects/index.qmd)
 :::
 :::
 
-[Download my CV](assets/YourName_CV.pdf){.btn .btn-cv}
+[Download my CV](assets/SJB_CV_AI.pdf){.btn .btn-cv}

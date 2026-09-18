@@ -1,26 +1,27 @@
 ---
-title: "[PROJECT TITLE ONE]"
-date: 2026-09-01
-author: "Your Name"
-categories: [coursework, R]
-description: "Replace this with one or two sentences on the question, the data, and what you found."
+title: "Closed-Loop Agentic Module (CLAM)"
+date: 2025-03-01
+author: "Samuel Boyer"
+categories: [BCI, agents, clinical]
+description: "An agentic control system for a live neural engineering trial, with medical-grade stimulator feedback and cloud/sandbox agent workflows."
 image: ../../assets/project-placeholder.png
 ---
 
 <span class="section-kicker">Overview</span>
 
-A short write-up of [PROJECT TITLE ONE]{.stub}. State the question, the data source, and the main result.
+CLAM is the closed-loop agentic module I lead on the ReHAB (Reconnecting Hand-Arm-Brain) clinical trial. The goal is to let field-deployed agents operate a real-time bioelectric pipeline while staying inside clinical safety constraints.
 
 ## What I did
 
-- [Cleaning, modeling, or visualization step.]{.stub}
-- [A second concrete step.]{.stub}
+- Built LangGraph harnesses so agents can rebalance across the cloud, review their own code, and run design, implementation, and review in parallel.
+- Closed the loop with medical-grade neurostimulators so output waveforms feed back into the agent environment for continuous improvement, safety checks, and debugging.
+- Isolated autonomous agents from sensitive data with Docker containerization and local LLMs.
+- Added latency profiling and multi-day telemetry so the team can debug the system under trial conditions.
 
 ## Tools
 
-[R]{.stub}, [Quarto]{.stub}, [PACKAGE]{.stub}
+LangGraph, Python, Docker, local LLMs, C#, medical-grade neurostimulators
 
 ## Links
 
-- [Code repository](https://github.com/YOUR-GITHUB)
-- [Paper, poster, or demo if you have one](#)
+- [GitHub](https://github.com/SamJBoyer)

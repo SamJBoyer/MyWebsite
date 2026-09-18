@@ -2,155 +2,155 @@
   {
     "objectID": "projects/items/project-two.html",
     "href": "projects/items/project-two.html",
-    "title": "[PROJECT TITLE TWO]",
+    "title": "Real-time neural processing pipeline",
     "section": "",
-    "text": "Overview\nDescribe PROJECT TITLE TWO in plain language. A visitor should understand the problem without reading a paper."
+    "text": "Overview\nThe ReHAB trial depends on a low-latency neural processing pipeline. I rebuilt that C++ path so it could keep up with live human recordings without the previous memory and runtime cost."
   },
   {
     "objectID": "projects/items/project-two.html#what-i-did",
     "href": "projects/items/project-two.html#what-i-did",
-    "title": "[PROJECT TITLE TWO]",
+    "title": "Real-time neural processing pipeline",
     "section": "What I did",
-    "text": "What I did\n\nMethod or experiment.\nFinding or deliverable."
+    "text": "What I did\n\nRedesigned the pipeline with lock-free multithreading.\nReduced the footprint by 88% and improved performance by 46%.\nAdded internal latency profiling and benchmark instruments to automate debugging and telemetry across days.\nTrained PyTorch models for regression and classification of neural dynamics and disease states on top of the faster path."
   },
   {
     "objectID": "projects/items/project-two.html#tools",
     "href": "projects/items/project-two.html#tools",
-    "title": "[PROJECT TITLE TWO]",
+    "title": "Real-time neural processing pipeline",
     "section": "Tools",
-    "text": "Tools\nPython, PACKAGE"
+    "text": "Tools\nC++, PyTorch, Docker, custom latency and telemetry tooling"
   },
   {
     "objectID": "projects/items/project-two.html#links",
     "href": "projects/items/project-two.html#links",
-    "title": "[PROJECT TITLE TWO]",
+    "title": "Real-time neural processing pipeline",
     "section": "Links",
-    "text": "Links\n\nCode repository"
+    "text": "Links\n\nGitHub"
   },
   {
     "objectID": "projects/items/project-one.html",
     "href": "projects/items/project-one.html",
-    "title": "[PROJECT TITLE ONE]",
+    "title": "Closed-Loop Agentic Module (CLAM)",
     "section": "",
-    "text": "Overview\nA short write-up of PROJECT TITLE ONE. State the question, the data source, and the main result."
+    "text": "Overview\nCLAM is the closed-loop agentic module I lead on the ReHAB (Reconnecting Hand-Arm-Brain) clinical trial. The goal is to let field-deployed agents operate a real-time bioelectric pipeline while staying inside clinical safety constraints."
   },
   {
     "objectID": "projects/items/project-one.html#what-i-did",
     "href": "projects/items/project-one.html#what-i-did",
-    "title": "[PROJECT TITLE ONE]",
+    "title": "Closed-Loop Agentic Module (CLAM)",
     "section": "What I did",
-    "text": "What I did\n\nCleaning, modeling, or visualization step.\nA second concrete step."
+    "text": "What I did\n\nBuilt LangGraph harnesses so agents can rebalance across the cloud, review their own code, and run design, implementation, and review in parallel.\nClosed the loop with medical-grade neurostimulators so output waveforms feed back into the agent environment for continuous improvement, safety checks, and debugging.\nIsolated autonomous agents from sensitive data with Docker containerization and local LLMs.\nAdded latency profiling and multi-day telemetry so the team can debug the system under trial conditions."
   },
   {
     "objectID": "projects/items/project-one.html#tools",
     "href": "projects/items/project-one.html#tools",
-    "title": "[PROJECT TITLE ONE]",
+    "title": "Closed-Loop Agentic Module (CLAM)",
     "section": "Tools",
-    "text": "Tools\nR, Quarto, PACKAGE"
+    "text": "Tools\nLangGraph, Python, Docker, local LLMs, C#, medical-grade neurostimulators"
   },
   {
     "objectID": "projects/items/project-one.html#links",
     "href": "projects/items/project-one.html#links",
-    "title": "[PROJECT TITLE ONE]",
+    "title": "Closed-Loop Agentic Module (CLAM)",
     "section": "Links",
-    "text": "Links\n\nCode repository\nPaper, poster, or demo if you have one"
+    "text": "Links\n\nGitHub"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Your Name",
+    "title": "Samuel Boyer",
     "section": "",
-    "text": "About me\nWelcome. I am a student at Case Western Reserve University. This site is my professional home for selected work, a short record of where I have been, and a way to get in touch.\nI am currently focused on YOUR FIELD. In addition to coursework, I am WHAT YOU ARE DOING NOW — for example, research, an internship, a job, or a specific methods interest.\nIf you would like to reach me, write to YOUR.EMAIL@case.edu or use the LinkedIn and GitHub links above.\n\nSelected highlights\n\n\nEducation\n\nCurrent program\n\nDEGREE, DEPARTMENTCase Western Reserve UniversitySTART YEAR – END YEAR or Present\nMore education →\n\n\nExperience\n\nMost recent role\n\nROLEORGANIZATIONDATES\nMore experience →\n\n\nProjects\n\nFeatured work\n\nPROJECT TITLEA short description of a paper, analysis, app, or class project.\nAll projects →\n\n\nDownload my CV"
+    "text": "About me\nWelcome. I am a part-time graduate student at Case Western Reserve University and a software engineer on the ReHAB (Reconnecting Hand-Arm-Brain) clinical trial.\nI work as a forward deployed engineer in neural engineering and brain–computer interfaces, with a focus on real-time, low-latency bioelectric pipelines and field-deployed AI workflows. In addition to coursework, I lead development of the Closed-Loop Agentic Module (CLAM) used in live human studies.\nIf you would like to reach me, write to sam.james.boyer@gmail.com or use the GitHub link above.\n\nSelected highlights\n\n\nEducation\n\nCurrent program\n\nM.S. in Biomedical and Health InformaticsCase Western Reserve UniversityExpected May 2028\nMore education →\n\n\nExperience\n\nMost recent role\n\nTechnical Lead, CLAM SystemReHAB Clinical TrialMarch 2025 – Present\nMore experience →\n\n\nProjects\n\nFeatured work\n\nClosed-Loop Agentic Module (CLAM)An agentic, low-latency neural processing system for a clinical BCI trial.\nAll projects →\n\n\nDownload my CV"
   },
   {
     "objectID": "education.html",
     "href": "education.html",
     "title": "Education",
     "section": "",
-    "text": "Academic background\nA concise record of degrees and training. Replace each highlighted stub before you share the site.\n\n\nDEGREE, e.g. M.S. in Biostatistics\n\nCase Western Reserve University · Cleveland, OH · START – END or Present\n\n\nConcentration or advisor: YOUR CONCENTRATION OR ADVISOR\nSelected coursework: COURSE 1, COURSE 2, COURSE 3\nNote anything distinctive: thesis topic, honors, or a methods interest.\n\n\n\nPREVIOUS DEGREE, e.g. B.S. in Statistics\n\nUNIVERSITY · CITY, STATE · START – END\n\n\nMajor / minor: MAJOR, MINOR IF ANY\nHonors or distinction: HONORS\nSenior thesis or capstone: TITLE OR omit this line\n\n\n\nIf you completed certificates, bootcamps, or a study-abroad term, add another card in this same list."
+    "text": "Academic background\nDegrees and training at Case Western Reserve University.\n\n\nM.S. in Biomedical and Health Informatics (Part-Time)\n\nCase Western Reserve University · Cleveland, OH · Expected May 2028\n\n\nConcentration: Artificial Intelligence for Neural Engineering\nGraduate coursework: AI in Medicine and Data Science Systems\n\n\n\nB.S.E. in Biomedical Engineering\n\nCase Western Reserve University · Cleveland, OH · May 2024\n\n\nMinor in Electrical Engineering"
   },
   {
     "objectID": "cv.html",
     "href": "cv.html",
     "title": "Curriculum Vitae",
     "section": "",
-    "text": "Download\nA one-page CV is available as a PDF. Replace assets/YourName_CV.pdf with your own file and keep this button. People who want the long version can still skim the highlights below.\n\nDownload CV (PDF)"
+    "text": "Download\nA two-page CV is available as a PDF. The file is the same résumé used to fill this site. Highlights are summarized below.\n\nDownload CV (PDF)"
   },
   {
     "objectID": "cv.html#contact",
     "href": "cv.html#contact",
     "title": "Curriculum Vitae",
     "section": "Contact",
-    "text": "Contact\n\nName: Your Name\nEmail: YOUR.EMAIL@case.edu\nLocation: Cleveland, OH\nLinkedIn: linkedin.com/in/YOUR-LINKEDIN\nGitHub: github.com/YOUR-GITHUB"
+    "text": "Contact\n\nName: Samuel James Boyer\nEmail: sam.james.boyer@gmail.com\n\nLocation: Beachwood, OH\nGitHub: github.com/SamJBoyer"
   },
   {
     "objectID": "cv.html#education",
     "href": "cv.html#education",
     "title": "Curriculum Vitae",
     "section": "Education",
-    "text": "Education\n\nDEGREE, DEPARTMENT, Case Western Reserve University, YEARS\nPREVIOUS DEGREE, UNIVERSITY, YEARS"
+    "text": "Education\n\nM.S. in Biomedical and Health Informatics (Part-Time), Case Western Reserve University, expected May 2028\nB.S.E. in Biomedical Engineering (Minor in Electrical Engineering), Case Western Reserve University, May 2024"
   },
   {
     "objectID": "cv.html#experience",
     "href": "cv.html#experience",
     "title": "Curriculum Vitae",
     "section": "Experience",
-    "text": "Experience\n\nROLE, ORGANIZATION, DATES\nROLE, ORGANIZATION, DATES"
+    "text": "Experience\n\nTechnical Lead — CLAM System, ReHAB Clinical Trial, March 2025 – Present\nSoftware Engineer I, ReHAB Clinical Trial, July 2024 – Present"
   },
   {
     "objectID": "cv.html#projects",
     "href": "cv.html#projects",
     "title": "Curriculum Vitae",
     "section": "Projects",
-    "text": "Projects\n\nPROJECT TITLE — one-line result\nPROJECT TITLE — one-line result"
+    "text": "Projects\n\nClosed-Loop Agentic Module (CLAM) — agentic control of a clinical neural processing pipeline, including feedback into medical-grade neurostimulators\nReal-time neural processing pipeline — lock-free C++ redesign with an 88% smaller footprint and 46% higher performance\nResearcher control UI — C#/Python interface for experiment deployment and tuning"
   },
   {
     "objectID": "cv.html#skills",
     "href": "cv.html#skills",
     "title": "Curriculum Vitae",
     "section": "Skills",
-    "text": "Skills\n\nMethods: regression, causal inference, ML, survey methods, …\nComputing: R, Python, SQL, Git, Quarto, …\nLanguages: English, …"
+    "text": "Skills\n\nProgramming and frameworks: C/C++, Python, C#, MATLAB, Docker, SLURM, GitHub\nFront-end platforms: Meta Quest SDK, Unity Editor, Dear PyGUI\nData systems: Redis, Supabase\nAI and systems architecture: MCP development with FastAPI, cloud/sandbox agent deployment, skills engineering, Cursor IDE"
   },
   {
     "objectID": "experience.html",
     "href": "experience.html",
     "title": "Experience",
     "section": "",
-    "text": "Work and research\nRoles, research assistantships, internships, and other work that a visitor should see. Keep each entry to a title, place, dates, and two or three concrete bullets.\n\n\nROLE\n\nORGANIZATION · CITY or Remote · START – END or Present\n\n\nWhat you owned or built, with a result if you have one.\nMethods, tools, or data you used.\nCollaboration, communication, or impact outside your immediate team.\n\n\n\nROLE\n\nORGANIZATION · CITY or Remote · START – END\n\n\nFirst contribution.\nSecond contribution.\n\n\n\nROLE, e.g. Research Assistant\n\nLAB OR PI · Case Western Reserve University · DATES\n\n\nStudy, dataset, or analysis you supported.\nSoftware or languages: R, Python, SQL, Quarto, etc."
+    "text": "Work and research\nEngineering roles on the ReHAB clinical trial, spanning real-time neural systems, agentic workflows, and live human studies.\n\n\nTechnical Lead — CLAM (Closed-Loop Agentic Module) System\n\nReHAB (Reconnecting Hand-Arm-Brain) Clinical Trial · Cleveland, OH · March 2025 – Present\n\n\nRedesigned the C++ neural processing pipeline with lock-free multithreading, cutting the footprint by 88% and improving performance by 46%.\nBuilt LangGraph harnesses so agents can rebalance across the cloud, review their own code, and run in a 12× faster design–implement–review loop.\nTrained PyTorch models for regression and classification of neural dynamics and disease states.\nIsolated autonomous agents from sensitive data with Docker and local LLMs, and closed the loop with medical-grade neurostimulators so output waveforms feed back into the agent environment.\nBuilt latency profiling, multi-day telemetry, and a C#/Python researcher UI for experiment deployment and tuning.\n\n\n\nSoftware Engineer I\n\nReHAB (Reconnecting Hand-Arm-Brain) Clinical Trial · Cleveland, OH · July 2024 – Present\n\n\nLed the lab-wide AI integration strategy and co-authored two AI-focused grant proposals for neural decoding research.\nOwned end-to-end experimental setup and execution for live human clinical trials, including real-time hardware and software debugging under clinical constraints."
   },
   {
     "objectID": "projects/index.html",
     "href": "projects/index.html",
     "title": "Projects",
     "section": "",
-    "text": "Selected work\nCourse projects, analyses, and other work I want people to be able to find. Each card below is a stub; swap in a real title, date, short description, and optional image.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n[PROJECT TITLE ONE]\n\n1 min\n\nReplace this with one or two sentences on the question, the data, and what you found.\n\n\n\nYour Name\n\n\nSep 1, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\n[PROJECT TITLE TWO]\n\n1 min\n\nA second project stub. Use this for research, an internship deliverable, or an independent analysis.\n\n\n\nYour Name\n\n\nJun 15, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\n[PROJECT TITLE THREE]\n\n1 min\n\nA third project stub. This can be a dashboard, a reproducibility write-up, or a consulting-style memo.\n\n\n\nYour Name\n\n\nDec 10, 2025\n\n\n\n\n\n\nNo matching items"
+    "text": "Selected work\nSelected systems and tools from the ReHAB clinical trial. Each page is a short write-up of work described in my CV.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nClosed-Loop Agentic Module (CLAM)\n\n1 min\n\nAn agentic control system for a live neural engineering trial, with medical-grade stimulator feedback and cloud/sandbox agent workflows.\n\n\n\nSamuel Boyer\n\n\nMar 1, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nReal-time neural processing pipeline\n\n1 min\n\nA lock-free C++ redesign of the ReHAB neural processing pipeline that cut footprint by 88% and improved performance by 46%.\n\n\n\nSamuel Boyer\n\n\nMar 1, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nClinical trial software and researcher UI\n\n1 min\n\nEnd-to-end experimental software for live human BCI trials, including a C#/Python control UI and lab-wide AI integration.\n\n\n\nSamuel Boyer\n\n\nJul 1, 2024\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "projects/items/project-three.html",
     "href": "projects/items/project-three.html",
-    "title": "[PROJECT TITLE THREE]",
+    "title": "Clinical trial software and researcher UI",
     "section": "",
-    "text": "Overview\nPROJECT TITLE THREE is a place to show a public-facing piece of work, even if it started as a class assignment."
+    "text": "Overview\nAs Software Engineer I on the ReHAB trial, I own the software path from experiment setup through live execution. The work has to stay debuggable in the room while a study is running."
   },
   {
     "objectID": "projects/items/project-three.html#what-i-did",
     "href": "projects/items/project-three.html#what-i-did",
-    "title": "[PROJECT TITLE THREE]",
+    "title": "Clinical trial software and researcher UI",
     "section": "What I did",
-    "text": "What I did\n\nAudience and purpose.\nWhat someone can do with the result."
+    "text": "What I did\n\nBuilt a researcher-facing control UI in C# and Python for experiment deployment and tuning.\nRan end-to-end experimental setup and real-time hardware/software debugging under clinical constraints.\nLed the lab-wide AI integration strategy and co-authored two AI-focused grant proposals for neural decoding research."
   },
   {
     "objectID": "projects/items/project-three.html#tools",
     "href": "projects/items/project-three.html#tools",
-    "title": "[PROJECT TITLE THREE]",
+    "title": "Clinical trial software and researcher UI",
     "section": "Tools",
-    "text": "Tools\nQuarto, Observable or ggplot2 or Tableau"
+    "text": "Tools\nC#, Python, Docker, GitHub"
   },
   {
     "objectID": "projects/items/project-three.html#links",
     "href": "projects/items/project-three.html#links",
-    "title": "[PROJECT TITLE THREE]",
+    "title": "Clinical trial software and researcher UI",
     "section": "Links",
-    "text": "Links\n\nLive demo or report"
+    "text": "Links\n\nGitHub"
   }
 ]

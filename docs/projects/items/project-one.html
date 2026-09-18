@@ -6,11 +6,11 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="author" content="Your Name">
-<meta name="dcterms.date" content="2026-09-01">
-<meta name="description" content="Replace this with one or two sentences on the question, the data, and what you found.">
+<meta name="author" content="Samuel Boyer">
+<meta name="dcterms.date" content="2025-03-01">
+<meta name="description" content="An agentic control system for a live neural engineering trial, with medical-grade stimulator feedback and cloud/sandbox agent workflows.">
 
-<title>[PROJECT TITLE ONE] – Your Name</title>
+<title>Closed-Loop Agentic Module (CLAM) – Samuel Boyer</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -48,7 +48,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="../../site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../../site_libs/bootstrap/bootstrap-b8871b01ac2de29a615c47efaf896ac9.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/bootstrap/bootstrap-e770499ae281923d0e1f751b6629d82a.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -79,6 +79,7 @@ ul.task-list li input[type="checkbox"] {
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
 <link href="https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,400;0,600;0,700;1,400&amp;family=Source+Serif+4:opsz,wght@8..60,600;8..60,700&amp;display=swap" rel="stylesheet">
+<style>.btn.btn-cv,.btn-cv{color:#f7f4ef!important}</style>
 
 
 <link rel="stylesheet" href="../../extra.css">
@@ -92,7 +93,7 @@ ul.task-list li input[type="checkbox"] {
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
     <a class="navbar-brand" href="../../index.html">
-    <span class="navbar-title">Your Name</span>
+    <span class="navbar-title">Samuel Boyer</span>
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
@@ -124,17 +125,12 @@ ul.task-list li input[type="checkbox"] {
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item compact">
-    <a class="nav-link" href="https://www.linkedin.com/in/YOUR-LINKEDIN"> <i class="bi bi-linkedin" role="img" aria-label="LinkedIn">
+    <a class="nav-link" href="https://github.com/SamJBoyer"> <i class="bi bi-github" role="img" aria-label="GitHub">
 </i> 
 <span class="menu-text"></span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="https://github.com/YOUR-GITHUB"> <i class="bi bi-github" role="img" aria-label="GitHub">
-</i> 
-<span class="menu-text"></span></a>
-  </li>  
-  <li class="nav-item compact">
-    <a class="nav-link" href="mailto:YOUR.EMAIL@case.edu"> <i class="bi bi-envelope" role="img" aria-label="Email">
+    <a class="nav-link" href="mailto:sam.james.boyer@gmail.com"> <i class="bi bi-envelope" role="img" aria-label="Email">
 </i> 
 <span class="menu-text"></span></a>
   </li>  
@@ -155,16 +151,17 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">[PROJECT TITLE ONE]</h1>
+<h1 class="title">Closed-Loop Agentic Module (CLAM)</h1>
   <div class="quarto-categories">
-    <div class="quarto-category">coursework</div>
-    <div class="quarto-category">R</div>
+    <div class="quarto-category">BCI</div>
+    <div class="quarto-category">agents</div>
+    <div class="quarto-category">clinical</div>
   </div>
   </div>
 
 <div>
   <div class="description">
-    Replace this with one or two sentences on the question, the data, and what you found.
+    An agentic control system for a live neural engineering trial, with medical-grade stimulator feedback and cloud/sandbox agent workflows.
   </div>
 </div>
 
@@ -174,14 +171,14 @@ ul.task-list li input[type="checkbox"] {
     <div>
     <div class="quarto-title-meta-heading">Author</div>
     <div class="quarto-title-meta-contents">
-             <p>Your Name </p>
+             <p>Samuel Boyer </p>
           </div>
   </div>
     
     <div>
     <div class="quarto-title-meta-heading">Published</div>
     <div class="quarto-title-meta-contents">
-      <p class="date">September 1, 2026</p>
+      <p class="date">March 1, 2025</p>
     </div>
   </div>
   
@@ -194,23 +191,24 @@ ul.task-list li input[type="checkbox"] {
 
 
 <p><span class="section-kicker">Overview</span></p>
-<p>A short write-up of <span class="stub">PROJECT TITLE ONE</span>. State the question, the data source, and the main result.</p>
+<p>CLAM is the closed-loop agentic module I lead on the ReHAB (Reconnecting Hand-Arm-Brain) clinical trial. The goal is to let field-deployed agents operate a real-time bioelectric pipeline while staying inside clinical safety constraints.</p>
 <section id="what-i-did" class="level2">
 <h2 class="anchored" data-anchor-id="what-i-did">What I did</h2>
 <ul>
-<li><span class="stub">Cleaning, modeling, or visualization step.</span></li>
-<li><span class="stub">A second concrete step.</span></li>
+<li>Built LangGraph harnesses so agents can rebalance across the cloud, review their own code, and run design, implementation, and review in parallel.</li>
+<li>Closed the loop with medical-grade neurostimulators so output waveforms feed back into the agent environment for continuous improvement, safety checks, and debugging.</li>
+<li>Isolated autonomous agents from sensitive data with Docker containerization and local LLMs.</li>
+<li>Added latency profiling and multi-day telemetry so the team can debug the system under trial conditions.</li>
 </ul>
 </section>
 <section id="tools" class="level2">
 <h2 class="anchored" data-anchor-id="tools">Tools</h2>
-<p><span class="stub">R</span>, <span class="stub">Quarto</span>, <span class="stub">PACKAGE</span></p>
+<p>LangGraph, Python, Docker, local LLMs, C#, medical-grade neurostimulators</p>
 </section>
 <section id="links" class="level2">
 <h2 class="anchored" data-anchor-id="links">Links</h2>
 <ul>
-<li><a href="https://github.com/YOUR-GITHUB">Code repository</a></li>
-<li><a href="#">Paper, poster, or demo if you have one</a></li>
+<li><a href="https://github.com/SamJBoyer">GitHub</a></li>
 </ul>
 
 
@@ -290,7 +288,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp('/' + window.location.host + '/');
+        var filterRegex = new RegExp("https:\/\/samjboyer\.github\.io\/MyWebsite");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
@@ -621,7 +619,7 @@ ul.task-list li input[type="checkbox"] {
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">
-<p>© 2026 Your Name</p>
+<p>© 2026 Samuel Boyer</p>
 </div>   
     <div class="nav-footer-center">
 <p>Built with Quarto</p>
@@ -629,19 +627,13 @@ ul.task-list li input[type="checkbox"] {
     <div class="nav-footer-right">
       <ul class="footer-items list-unstyled">
     <li class="nav-item compact">
-    <a class="nav-link" href="https://www.linkedin.com/in/YOUR-LINKEDIN">
-      <i class="bi bi-linkedin" role="img" aria-label="LinkedIn">
-</i> 
-    </a>
-  </li>  
-    <li class="nav-item compact">
-    <a class="nav-link" href="https://github.com/YOUR-GITHUB">
+    <a class="nav-link" href="https://github.com/SamJBoyer">
       <i class="bi bi-github" role="img" aria-label="GitHub">
 </i> 
     </a>
   </li>  
     <li class="nav-item compact">
-    <a class="nav-link" href="mailto:YOUR.EMAIL@case.edu">
+    <a class="nav-link" href="mailto:sam.james.boyer@gmail.com">
       <i class="bi bi-envelope" role="img" aria-label="Email">
 </i> 
     </a>

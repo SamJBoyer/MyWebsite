@@ -1,25 +1,27 @@
 ---
-title: "[PROJECT TITLE TWO]"
-date: 2026-06-15
-author: "Your Name"
-categories: [research, Python]
-description: "A second project stub. Use this for research, an internship deliverable, or an independent analysis."
+title: "Real-time neural processing pipeline"
+date: 2025-03-01
+author: "Samuel Boyer"
+categories: [C++, systems, BCI]
+description: "A lock-free C++ redesign of the ReHAB neural processing pipeline that cut footprint by 88% and improved performance by 46%."
 image: ../../assets/project-placeholder.png
 ---
 
 <span class="section-kicker">Overview</span>
 
-Describe [PROJECT TITLE TWO]{.stub} in plain language. A visitor should understand the problem without reading a paper.
+The ReHAB trial depends on a low-latency neural processing pipeline. I rebuilt that C++ path so it could keep up with live human recordings without the previous memory and runtime cost.
 
 ## What I did
 
-- [Method or experiment.]{.stub}
-- [Finding or deliverable.]{.stub}
+- Redesigned the pipeline with lock-free multithreading.
+- Reduced the footprint by 88% and improved performance by 46%.
+- Added internal latency profiling and benchmark instruments to automate debugging and telemetry across days.
+- Trained PyTorch models for regression and classification of neural dynamics and disease states on top of the faster path.
 
 ## Tools
 
-[Python]{.stub}, [PACKAGE]{.stub}
+C++, PyTorch, Docker, custom latency and telemetry tooling
 
 ## Links
 
-- [Code repository](https://github.com/YOUR-GITHUB)
+- [GitHub](https://github.com/SamJBoyer)

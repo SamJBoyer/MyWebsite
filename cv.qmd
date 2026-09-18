@@ -6,37 +6,39 @@ title: "Curriculum Vitae"
 <div>
 <span class="section-kicker">Download</span>
 
-**A one-page CV is available as a PDF.** Replace `assets/YourName_CV.pdf` with your own file and keep this button. People who want the long version can still skim the highlights below.
+**A two-page CV is available as a PDF.** The file is the same résumé used to fill this site. Highlights are summarized below.
 </div>
 
-[Download CV (PDF)](assets/YourName_CV.pdf){.btn .btn-cv}
+[Download CV (PDF)](assets/SJB_CV_AI.pdf){.btn .btn-cv}
 :::
 
 ## Contact
 
-- **Name:** [Your Name]{.stub}
-- **Email:** [YOUR.EMAIL@case.edu](mailto:YOUR.EMAIL@case.edu)
-- **Location:** Cleveland, OH
-- **LinkedIn:** [linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/YOUR-LINKEDIN)
-- **GitHub:** [github.com/YOUR-GITHUB](https://github.com/YOUR-GITHUB)
+- **Name:** Samuel James Boyer
+- **Email:** [sam.james.boyer@gmail.com](mailto:sam.james.boyer@gmail.com)
+
+- **Location:** Beachwood, OH
+- **GitHub:** [github.com/SamJBoyer](https://github.com/SamJBoyer)
 
 ## Education
 
-- **[DEGREE]{.stub}**, [DEPARTMENT]{.stub}, Case Western Reserve University, [YEARS]{.stub}
-- **[PREVIOUS DEGREE]{.stub}**, [UNIVERSITY]{.stub}, [YEARS]{.stub}
+- **M.S. in Biomedical and Health Informatics** (Part-Time), Case Western Reserve University, expected May 2028
+- **B.S.E. in Biomedical Engineering** (Minor in Electrical Engineering), Case Western Reserve University, May 2024
 
 ## Experience
 
-- **[ROLE]{.stub}**, [ORGANIZATION]{.stub}, [DATES]{.stub}
-- **[ROLE]{.stub}**, [ORGANIZATION]{.stub}, [DATES]{.stub}
+- **Technical Lead — CLAM System**, ReHAB Clinical Trial, March 2025 – Present
+- **Software Engineer I**, ReHAB Clinical Trial, July 2024 – Present
 
 ## Projects
 
-- **[PROJECT TITLE]{.stub}** — [one-line result]{.stub}
-- **[PROJECT TITLE]{.stub}** — [one-line result]{.stub}
+- **Closed-Loop Agentic Module (CLAM)** — agentic control of a clinical neural processing pipeline, including feedback into medical-grade neurostimulators
+- **Real-time neural processing pipeline** — lock-free C++ redesign with an 88% smaller footprint and 46% higher performance
+- **Researcher control UI** — C#/Python interface for experiment deployment and tuning
 
 ## Skills
 
-- **Methods:** [regression, causal inference, ML, survey methods, …]{.stub}
-- **Computing:** [R, Python, SQL, Git, Quarto, …]{.stub}
-- **Languages:** [English, …]{.stub}
+- **Programming and frameworks:** C/C++, Python, C#, MATLAB, Docker, SLURM, GitHub
+- **Front-end platforms:** Meta Quest SDK, Unity Editor, Dear PyGUI
+- **Data systems:** Redis, Supabase
+- **AI and systems architecture:** MCP development with FastAPI, cloud/sandbox agent deployment, skills engineering, Cursor IDE

@@ -4,31 +4,25 @@ title: "Experience"
 
 <span class="section-kicker">Work and research</span>
 
-Roles, research assistantships, internships, and other work that a visitor should see. Keep each entry to a title, place, dates, and two or three concrete bullets.
+Engineering roles on the ReHAB clinical trial, spanning real-time neural systems, agentic workflows, and live human studies.
 
 ::: {.timeline}
 ::: {.role-card}
-### [ROLE]{.stub}
-<div class="meta">[ORGANIZATION]{.stub} · [CITY or Remote]{.stub} · [START]{.stub} – [END or Present]{.stub}</div>
+### Technical Lead — CLAM (Closed-Loop Agentic Module) System
+<div class="meta">ReHAB (Reconnecting Hand-Arm-Brain) Clinical Trial · Cleveland, OH · March 2025 – Present</div>
 
-- [What you owned or built, with a result if you have one.]{.stub}
-- [Methods, tools, or data you used.]{.stub}
-- [Collaboration, communication, or impact outside your immediate team.]{.stub}
+- Redesigned the C++ neural processing pipeline with lock-free multithreading, cutting the footprint by 88% and improving performance by 46%.
+- Built LangGraph harnesses so agents can rebalance across the cloud, review their own code, and run in a 12× faster design–implement–review loop.
+- Trained PyTorch models for regression and classification of neural dynamics and disease states.
+- Isolated autonomous agents from sensitive data with Docker and local LLMs, and closed the loop with medical-grade neurostimulators so output waveforms feed back into the agent environment.
+- Built latency profiling, multi-day telemetry, and a C#/Python researcher UI for experiment deployment and tuning.
 :::
 
 ::: {.role-card}
-### [ROLE]{.stub}
-<div class="meta">[ORGANIZATION]{.stub} · [CITY or Remote]{.stub} · [START]{.stub} – [END]{.stub}</div>
+### Software Engineer I
+<div class="meta">ReHAB (Reconnecting Hand-Arm-Brain) Clinical Trial · Cleveland, OH · July 2024 – Present</div>
 
-- [First contribution.]{.stub}
-- [Second contribution.]{.stub}
-:::
-
-::: {.role-card}
-### [ROLE, e.g. Research Assistant]{.stub}
-<div class="meta">[LAB OR PI]{.stub} · Case Western Reserve University · [DATES]{.stub}</div>
-
-- [Study, dataset, or analysis you supported.]{.stub}
-- [Software or languages: R, Python, SQL, Quarto, etc.]{.stub}
+- Led the lab-wide AI integration strategy and co-authored two AI-focused grant proposals for neural decoding research.
+- Owned end-to-end experimental setup and execution for live human clinical trials, including real-time hardware and software debugging under clinical constraints.
 :::
 :::

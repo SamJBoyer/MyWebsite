@@ -1,5 +1,6 @@
 /.quarto/
 /.Rproj.user/
+/site_libs/
 .Rhistory
 .RData
 *_cache/

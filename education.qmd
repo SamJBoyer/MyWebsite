@@ -4,26 +4,21 @@ title: "Education"
 
 <span class="section-kicker">Academic background</span>
 
-A concise record of degrees and training. Replace each highlighted stub before you share the site.
+Degrees and training at Case Western Reserve University.
 
 ::: {.timeline}
 ::: {.role-card}
-### [DEGREE, e.g. M.S. in Biostatistics]{.stub}
-<div class="meta">Case Western Reserve University · Cleveland, OH · [START]{.stub} – [END or Present]{.stub}</div>
+### M.S. in Biomedical and Health Informatics (Part-Time)
+<div class="meta">Case Western Reserve University · Cleveland, OH · Expected May 2028</div>
 
-- Concentration or advisor: [YOUR CONCENTRATION OR ADVISOR]{.stub}
-- Selected coursework: [COURSE 1]{.stub}, [COURSE 2]{.stub}, [COURSE 3]{.stub}
-- Note anything distinctive: thesis topic, honors, or a methods interest.
+- Concentration: Artificial Intelligence for Neural Engineering
+- Graduate coursework: AI in Medicine and Data Science Systems
 :::
 
 ::: {.role-card}
-### [PREVIOUS DEGREE, e.g. B.S. in Statistics]{.stub}
-<div class="meta">[UNIVERSITY]{.stub} · [CITY, STATE]{.stub} · [START]{.stub} – [END]{.stub}</div>
+### B.S.E. in Biomedical Engineering
+<div class="meta">Case Western Reserve University · Cleveland, OH · May 2024</div>
 
-- Major / minor: [MAJOR]{.stub}, [MINOR IF ANY]{.stub}
-- Honors or distinction: [HONORS]{.stub}
-- Senior thesis or capstone: [TITLE OR omit this line]{.stub}
+- Minor in Electrical Engineering
 :::
 :::
-
-If you completed certificates, bootcamps, or a study-abroad term, add another card in this same list.

@@ -9,10 +9,11 @@ project:
     - assets
 
 website:
-  title: "Your Name"
-  description: "Graduate student at Case Western Reserve University. Replace this tagline with your own."
+  title: "Samuel Boyer"
+  description: "Forward deployed engineer in neural engineering and BCI. M.S. student in Biomedical and Health Informatics at Case Western Reserve University."
   image: assets/profile.png
   favicon: assets/favicon.png
+  site-url: https://samjboyer.github.io/MyWebsite
   navbar:
     pinned: true
     background: primary
@@ -28,28 +29,22 @@ website:
       - text: CV
         href: cv.qmd
     right:
-      - icon: linkedin
-        href: https://www.linkedin.com/in/YOUR-LINKEDIN
-        aria-label: LinkedIn
       - icon: github
-        href: https://github.com/YOUR-GITHUB
+        href: https://github.com/SamJBoyer
         aria-label: GitHub
       - icon: envelope
-        href: mailto:YOUR.EMAIL@case.edu
+        href: mailto:sam.james.boyer@gmail.com
         aria-label: Email
   page-footer:
     background: dark
-    left: "© 2026 Your Name"
+    left: "© 2026 Samuel Boyer"
     center: "Built with Quarto"
     right:
-      - icon: linkedin
-        href: https://www.linkedin.com/in/YOUR-LINKEDIN
-        aria-label: LinkedIn
       - icon: github
-        href: https://github.com/YOUR-GITHUB
+        href: https://github.com/SamJBoyer
         aria-label: GitHub
       - icon: envelope
-        href: mailto:YOUR.EMAIL@case.edu
+        href: mailto:sam.james.boyer@gmail.com
         aria-label: Email
   search:
     location: navbar
